@@ -7,6 +7,11 @@
 
 - ⚡ Fun fact **This fact is not so fun**
 
+<h3 align="left">What I'm listening to:</h3>
+<p align="left">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=jpsl00&redirect=true" target="blank"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jpsl00&cover_image=true&theme=default" alt="jpsl00" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jpsl00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jpsl00" height="30" width="40" /></a>
