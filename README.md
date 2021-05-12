@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- ⚡ Fun fact **This fact is not so fun**
-
 <h3 align="left">What I'm listening to:</h3>
 <p align="left">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=jpsl00&redirect=true" target="blank"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jpsl00&cover_image=true&theme=default" alt="jpsl00" /></a>
