@@ -23,15 +23,19 @@
 
 ###
 
-<!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/39386474-fe34-4b6a-a770-981a79974022 "AWS Certified Cloud Practitioner")
-<!--END_SECTION:badges-->
+<div align="center">
+  <img src="https://stats.jpsl.dev/api?username=jpsl00&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=radical&locale=en&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://stats.jpsl.dev/api/top-langs?username=jpsl00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&count_private=true" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://stats.jpsl.dev/api?username=jpsl00&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=radical&locale=en&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://stats.jpsl.dev/api/top-langs?username=jpsl00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&count_private=true" height="150" alt="languages graph"  />
+
+<!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/39386474-fe34-4b6a-a770-981a79974022 "AWS Certified Cloud Practitioner")
+<!--END_SECTION:badges-->
+
 </div>
 
 ###
