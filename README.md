@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://stats.jpsl.dev/api?username=jpsl00&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=radical&locale=en&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://stats.jpsl.dev/api/top-langs?username=jpsl00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://stats.jpsl.dev/" height="150" alt="stats"  />
+  <img src="https://stats.jpsl.dev/langs" height="150" alt="languages"  />
 </div>
 
 ###
