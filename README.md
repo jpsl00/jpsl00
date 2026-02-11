@@ -11,7 +11,7 @@
 ### 🧑‍💻 About me
 
 - 🏢 **Fullstack Developer** at [PepperHQ](https://github.com/PepperHQ), building ordering, payments, and loyalty tools for the hospitality industry
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1f7.svg" width="16" height="16" /> Born in Brazil, <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ec-1f1e7.svg" width="16" height="16" /> based in the UK
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1f7.svg" width="16" height="16" /> Brazilian, currently based in the UK <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ec-1f1e7.svg" width="16" height="16" />
 - 🔧 I fix things that annoy me on the internet and sometimes publish those fixes (see below)
 - 🏔️ Arctic Code Vault Contributor. My code is literally frozen inside a mountain in Svalbard. You're welcome for the [gambiarra](http://gambiarra.urbanup.com/7211149), future civilizations 😉
 
